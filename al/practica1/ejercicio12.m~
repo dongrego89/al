@@ -1,0 +1,6 @@
+clc;
+cara=0;
+cruz=0;
+while(cara~=20)
+    
+    
