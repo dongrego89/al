@@ -1,0 +1,6 @@
+function[retorno] = misuma(x,n)
+    retorno=0;
+       fprintf
+    for i=n:-1:1
+        retorno=retorno + n * (x^(n-1))
+    end
