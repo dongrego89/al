@@ -3,3 +3,4 @@ function[retorno] = misuma(x,n)
     for i=1:n
         retorno=retorno + (i * x^(i-1));
     end
+end
